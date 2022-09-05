@@ -1,3 +1,3 @@
 # Restaurant Page
 
-## Empty Repo, will update soon
+## Sample Restaurant Page generated using JavaScript
