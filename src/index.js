@@ -1,1 +1,3 @@
-console.log("Apple");
+import initialize from "./initialize";
+
+initialize();
